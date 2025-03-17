@@ -15,7 +15,7 @@ position: relative; /* Adicionado para controlar o z-index do ::before */
 }
  
 body::before {
-    background-image: url("/assets/img/Design\ sem\ nome\ \(2\).png");
+    background-image: url("../img/Design\ sem\ nome\ \(2\).png");
     background-color: royalblue;
     background-repeat: no-repeat;
     background-position: right;
